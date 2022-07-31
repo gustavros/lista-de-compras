@@ -31,4 +31,4 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 
 > Também usei o Prettier para ajudar na formatação.
 
-[⬆ Voltar ao topo](#Lista de compras)<br>
+[⬆ Voltar ao topo](#Lista-de-compras)<br>
