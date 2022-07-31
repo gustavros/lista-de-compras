@@ -5,11 +5,11 @@
 
 # Versão desktop 🖥
 
-![Desktop]()
+![Desktop](https://user-images.githubusercontent.com/92998471/182024543-42a8c5fc-cfdc-4a15-a4e2-9d516877824b.png)
 
 # Versão mobile 📱
 
-![Mobile]()
+![Mobile](https://user-images.githubusercontent.com/92998471/182024545-6ac2ea16-bed0-4353-bff6-bfcd910d6aee.png)
 
 > Projeto desenvolvido por mim, acompanhado pelo professor [**John Smilga**](https://github.com/john-smilga/) na plataforma do Youtube. O projeto foi criado com o próposito de trabalhar mais o JavaScript e melhorar a lógica por trás dos websites, aprendi muito sobre LocalStorage, Elements, HTML no JavaScript, Funções e mais.
 
