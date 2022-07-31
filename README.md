@@ -1,17 +1,17 @@
-# Lista de compras
+# Lista de compras 🧾
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/gustavros/README-template?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/gustavros/README-template?style=for-the-badge)
 
-# Versão desktop
+# Versão desktop 🖥
 
 ![Desktop]()
 
-# Versão mobile
+# Versão mobile 📱
 
 ![Mobile]()
 
-> Projeto desenvolvido por mim, trabalhando mais o JavaScript no geral, o layout da aplicação foi desenvolvido pelo [**John Smilga**](https://github.com/john-smilga/).
+> Projeto desenvolvido por mim, acompanhado pelo professor [**John Smilga**](https://github.com/john-smilga/) na plataforma do Youtube. O projeto foi criado com o próposito de trabalhar mais o JavaScript e melhorar a lógica por trás dos websites, aprendi muito sobre LocalStorage, Elements, HTML no JavaScript, Funções e mais.
 
 ### ⚙ Ajustes e melhorias
 
