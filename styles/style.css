@@ -232,6 +232,9 @@ Grocery List
   font-size: 1rem;
   flex: 1 0 auto;
   color: var(--clr-grey-5);
+
+  max-width: 100%;
+  width: 70%;
 }
 #grocery::placeholder {
   font-family: var(--ff-secondary);
