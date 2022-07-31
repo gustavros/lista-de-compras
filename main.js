@@ -140,8 +140,6 @@ function addToLocalStorage(id, value) {
 
   let items = getLocalStorage();
 
-  console.log(items);
-
   items.push(grocery);
 
   localStorage.setItem("list", JSON.stringify(items));
@@ -151,8 +149,6 @@ function removeFromLocalStorage(id) {
   let items = getLocalStorage();
 
   items = items.filter((item) => item.id !== id); // ! se o id for diferente do id que está sendo removido
-
-  console.log(`${id} removed from local storage`);
 
   localStorage.setItem("list", JSON.stringify(items));
 }
